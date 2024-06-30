@@ -1,1 +1,2 @@
 # EDA-in-SQL-using-Supermarket-Sales
+The SQL EDA project provides comprehensive insights into various aspects of supermarket sales data. By using aggregation, grouping, ordering, and date formatting techniques, the analysis reveals important patterns and trends in the data. These findings can help in making data-driven decisions to optimize sales strategies, improve customer satisfaction, and enhance overall business performance.
